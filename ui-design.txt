@@ -1,1 +1,3 @@
 Login Screen: Username, Password, and Login Button.
+
+edited by Haitham : fixed the little bug related to this file
